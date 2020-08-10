@@ -21,8 +21,11 @@ No package 'opencv' found
 https://stackoverflow.com/questions/15320267/package-opencv-was-not-found-in-the-pkg-config-search-path
 
 
+@Yolo_Mark 설치링크(이미지 파일에 바운딩 박스 그려줌)
+git clone https://github.com/AlexeyAB/Yolo_mark
 
-
+@yolo 실행법 자세히 나와있는 링크
+https://j-remind.tistory.com/64
 
 참고자료
 페이스 디텍션(파이썬)
